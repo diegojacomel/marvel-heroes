@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo Render correctly 1`] = `
+<h1
+  className="sc-bdVaJa hxOzgB"
+  title="title"
+>
+  <img
+    alt="alt"
+    className="sc-bwzfXH cinfRt"
+    src="react.png"
+  />
+</h1>
+`;
